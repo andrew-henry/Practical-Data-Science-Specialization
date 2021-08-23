@@ -1,5 +1,6 @@
 # Practical-Data-Science-Specialization
 
+Coursera Specialization offered by DeepLearning.AI & Amazon Web Services
 
 
 
