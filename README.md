@@ -3,6 +3,16 @@
 Coursera Specialization offered by DeepLearning.AI & Amazon Web Services
 
 
+### Course Instructors 
+
+* Antje Barth - Senior Developer Advocate, AL and Machine Learning, Amazon Web Services(AWS)
+
+* Shelbee Eigenbrode - Principal Solutions Architect, AI and Machine Learning, Amazon Web Services(AWS)
+
+* Sireesha Muppala - Principal Solutions Architect, AI and Machine Learning, Amazon Web Services(AWS)
+
+* Chris Fregly - Principal Developer Advocate, AI and Machine Learning, Amazon Web Services(AWS)
+
 
 
 Course 1 - Analyze Datasets and Train ML Models using AutoML
